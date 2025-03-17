@@ -57,7 +57,7 @@ cargo run
  cargo run --no-default-features --features type_state 
 ```
 
-### Exlore OpenAPI UI
+### Explore OpenAPI UI
 Open in browser the url `http://127.0.0.1:8080/`.
 
 
